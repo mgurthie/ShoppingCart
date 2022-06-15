@@ -1,2 +1,3 @@
 # ShoppingCart
-Week 19 assignment
+## MIT Bootcamp Week 19 assignment
+Demonstrate restocking functionality with the Shopping Cart application. 
